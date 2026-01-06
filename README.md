@@ -1,6 +1,6 @@
 <h1 align="center">Breadpan</h1>
 
-A template for static sites with hugo sites.
+A template for [Hugo sites](https://gohugo.io/) using the [Hextra theme](https://github.com/imfing/hextra).
 
 ## Local Development
 
