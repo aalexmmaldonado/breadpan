@@ -1,6 +1,6 @@
 <h1 align="center">Breadpan</h1>
 
-A template for breadcrumb sites.
+A template for static sites with hugo sites.
 
 ## Local Development
 
@@ -8,7 +8,7 @@ Pre-requisites: [Hugo](https://gohugo.io/getting-started/installing/), [Go](http
 
 ```shell
 # Clone the repo
-git clone git@github.com:oasci/breadpan.git
+git clone git@github.com:aalexmmaldonado/breadpan.git
 
 # Change directory
 cd breadpan

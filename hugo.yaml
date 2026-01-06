@@ -1,6 +1,6 @@
 # Hugo configuration file
 title: breadpan
-baseURL: https://breadpan.crumblearn.org/
+baseURL: https://breadpan.aalexmmaldonado.com/
 languageCode: en-us
 
 enableGitInfo: true
@@ -34,16 +34,16 @@ menu:
         type: search
     - name: GitHub
       weight: 6
-      url: "https://github.com/oasci/"
+      url: "https://github.com/aalexmmaldonado/"
       params:
         icon: github
 
 params:
   navbar:
     displayTitle: true
-    displayLogo: true
-    logo:
-      path: img/logo.svg
+    displayLogo: false
+    # logo:
+    #   path: img/logo.svg
     width: wide
   
   page:
@@ -74,4 +74,4 @@ params:
 
   editURL:
     enable: true
-    base: "https://github.com/oasci/breadpan/edit/main/content"
+    base: "https://github.com/aalexmmaldonado/breadpan/edit/main/content"
